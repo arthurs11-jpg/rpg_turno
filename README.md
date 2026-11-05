@@ -1,5 +1,3 @@
-### rpg_turno
-
 LISTA DE EXERCÍCIOS - Python no mundo do RPG
 =============================================
 
